@@ -113,14 +113,14 @@ The goal is to identify patterns in **movie popularity, audience engagement, and
 ---
 
 ## Dataset
-### <a href="https://github.com/rajendharbanoth8-byte/IMDB-Movie-Analysis/blob/main/Movies_Data-1.csv">Data set</a>
+### <a href="https://github.com/rajendharbanoth8-byte/IMDB-Movie-Analysis/blob/main/Movies_Data-1.csv">Data set</a><br>
 
 ## How to Run
 
 ### 1. Clone Repository
 
 ```bash "
-git clone <repository-link>
+git clone <https://github.com/rajendharbanoth8-byte/IMDB-Movie-Analysis.git>
 ```
 
 ### 2. Install Required Libraries
