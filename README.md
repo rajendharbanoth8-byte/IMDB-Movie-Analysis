@@ -1,4 +1,4 @@
-# 🎬 IMDB Movie Analysis (2021–2024) | Data Analytics Project
+#  IMDB Movie Analysis (2021–2024) | Data Analytics Project
 
 ## Overview
 
@@ -111,6 +111,9 @@ The goal is to identify patterns in **movie popularity, audience engagement, and
 * A **presentation (PPT)** was created using **Gamma AI** summarizing insights and conclusions
 
 ---
+
+## Dataset
+### <a href="https://github.com/rajendharbanoth8-byte/IMDB-Movie-Analysis/blob/main/Movies_Data-1.csv">Data set</a>
 
 ## How to Run
 
