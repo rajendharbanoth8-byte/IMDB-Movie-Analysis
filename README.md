@@ -150,6 +150,6 @@ IMDB-Movie-Analysis/
 
 ## Author
 
-**Rajendhar Banoth**
+**Rajendhar Banoth**<br>
 Aspiring Data Analyst | Python | Data Visualization | EDA
 
